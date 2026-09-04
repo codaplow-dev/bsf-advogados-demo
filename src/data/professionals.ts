@@ -1,0 +1,2 @@
+export const professionals=[{name:'Equipe BSF',role:'Atuação jurídica',areas:'Direito Empresarial • Contratos',image:'/images/professionals/professional-placeholder-01.png'},{name:'Equipe BSF',role:'Atuação jurídica',areas:'Direito Civil • Família e Sucessões',image:'/images/professionals/professional-placeholder-02.png'},{name:'Equipe BSF',role:'Atuação jurídica',areas:'Direito Trabalhista • Previdenciário',image:'/images/professionals/professional-placeholder-03.png'}] as const;
+

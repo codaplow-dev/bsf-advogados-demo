@@ -1,0 +1,1 @@
+import type {MetadataRoute} from 'next';export default function sitemap():MetadataRoute.Sitemap{return[{url:'https://bsfadvogados.com.br',lastModified:new Date('2026-09-04')},{url:'https://bsfadvogados.com.br/politica-de-privacidade',lastModified:new Date('2026-09-04')},{url:'https://bsfadvogados.com.br/termos-de-uso',lastModified:new Date('2026-09-04')}]}

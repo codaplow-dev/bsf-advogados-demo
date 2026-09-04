@@ -1,0 +1,1 @@
+import {Hero} from '@/components/sections/Hero';import {About,PracticeAreas,Approach,Professionals,ServiceProcess,Articles,FAQ,ContactCTA} from '@/components/sections/Sections';export default function Home(){return <main><Hero/><About/><PracticeAreas/><Approach/><Professionals/><ServiceProcess/><Articles/><FAQ/><ContactCTA/></main>}
